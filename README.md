@@ -1,6 +1,8 @@
 ## **🎯Network Slowdowns and Potential Lateral Movement Incident**
 
-<img width="487" height="613" alt="image" src="https://github.com/user-attachments/assets/374433ed-0084-4149-b8b2-c2692bd557ef" />
+<p align="center">
+  <img width="487" height="613" alt="image" src="https://github.com/user-attachments/assets/374433ed-0084-4149-b8b2-c2692bd557ef" />
+</p>
 
 # Incident Investigation Report
 
